@@ -5,7 +5,7 @@ import numpy as np
 
 # Set up the page title
 st.title("Food Physics Data Visualizer")
-st.markdown("**Developed by B_DISSANAYAKA(https://www.linkedin.com/in/bhanuka-dissanayaka-938047254/?lipi=urn%3Ali%3Apage%3Ad_flagship3_creator_dashboard%3BdXSgiNpDRLOKi85RWrxbYg%3D%3D)**") # <--- Add this line here
+st.markdown("**Developed by [B_DISSANAYAKA](https://www.linkedin.com/in/bhanuka-dissanayaka-938047254/)**") # <--- Add this line here
 st.write("Generate custom scatter plots and trendlines for your samples.")
 
 # 1. Data Ingestion
